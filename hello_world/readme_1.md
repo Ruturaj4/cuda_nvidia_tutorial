@@ -1,1 +1,1 @@
-//Hello world program with cuda
+#Hello world program with cuda
