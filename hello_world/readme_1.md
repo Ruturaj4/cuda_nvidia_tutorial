@@ -1,2 +1,2 @@
-//Hello world program with cuda
+//Hello world program with cuda\n
 //My first program
