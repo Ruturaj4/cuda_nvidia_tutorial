@@ -39,7 +39,7 @@ c = (int*)malloc(size);
 cudaMemcpy(d_a, a, size, cudaMemcpyHostToDevice);
 cudaMemcpy(d_b, b, size, cudaMemcpyHostToDevice);
 
-add<<<N,1>>>(d_a, d_b, d_c);
+add<<<1,N>>>(d_a, d_b, d_c);//Changing 1,N as for threads
 
 cudaMemcpy(c, d_c, size, cudaMemcpyDeviceToHost);
 
