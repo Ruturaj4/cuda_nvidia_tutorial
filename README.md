@@ -1,4 +1,4 @@
-# cuda_projects
+# cuda_nvidia_tutorial
 
 CUDA C/C++ Basics - Supercomputing 2011 Tutorial - NVIDIA
 
