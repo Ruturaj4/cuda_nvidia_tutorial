@@ -1,6 +1,6 @@
 # cuda_projects
 
-CUDA C/C++ Basics - Supercomputing 2011 Tutorial
+CUDA C/C++ Basics - Supercomputing 2011 Tutorial - NVIDIA
 
 cuda projects
 1) cuda hello_world
