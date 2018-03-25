@@ -9,3 +9,4 @@ cuda projects
 4) cuda_vector_addition_in_parallel_block
 5) cuda_vector_addition_in_parallel_threads
 6) cuda_blockDim
+7) cuda_blockDim_arbitrary
