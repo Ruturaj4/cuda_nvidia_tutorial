@@ -1,4 +1,7 @@
 # cuda_projects
+
+CUDA C/C++ Basics - Supercomputing 2011 Tutorial
+
 cuda projects
 1) cuda hello_world
 2) cuda_hello_world - kernel included
